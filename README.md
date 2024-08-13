@@ -13,7 +13,7 @@ docker-compose run --rm todo sh -c 'npx create-react-app todo-project --template
 # 作成したプロジェクトを起動する
 docker-compose up -d
 
-# Reactの画面が表示される
+# Reactの画面が表示される（起動後、表示されるまで1~2分程度）
 http://localhost:3000/
 ```
 
