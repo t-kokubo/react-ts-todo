@@ -1,5 +1,8 @@
-# react-ts-todo
+## 概要
+* React & TypeScriptを使用したTodoアプリの作成
 
+
+## 環境構築手順
 ### Reactプロジェクト作成
 ```php
 # コンテナイメージの作成
