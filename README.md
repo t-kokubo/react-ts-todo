@@ -31,7 +31,7 @@ exit
 ```php
 # ルートディレクトリに移動してからcpコマンドでコンポーネントを作成する
 cp ./copy_todo/App.tsx ./todo-project/src/App.tsx
-cp ./copy_todo/components ./todo-project/src/
+cp -r ./copy_todo/components ./todo-project/src/
 ```
 
 ### エラーが起きた時に試してください
